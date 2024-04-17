@@ -1,2 +1,2 @@
-# Vehicle_sales_analysis
-Vehicle sales analysis using SQL
+# Pizza_sales_analysis
+Pizza sales analysis using SQL
